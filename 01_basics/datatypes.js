@@ -9,7 +9,7 @@ let name
 let age
 let isloggedin
 
-//number => 2 pwr 53
+// number => 2 pwr 53
 // bigint
 // string => ""
 // boolean => true/false, yes/no
