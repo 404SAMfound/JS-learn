@@ -9,15 +9,26 @@
 const heros = ["shaktiman", "naagraj", "doga"]
 // object
 
-  let MyObj
+let MyObj =
 {
   name : "samridhi",
-    age ; 18,
+    age : 18,
 }
 
 // function
 
 const MyFun = function(){}
-    console.log("hello ji");
+  console.log("hello ji");
     
-    
+
+//****************************************************************************
+
+// stack (primitive) , heap (non primitive)
+
+let myyoutubeName = "samridhidotcom"
+let anotherName = myyoutubeName
+
+anotherName = "chaiaurcode"
+console.log(myyoutubeName)
+console.log(anotherName)
+
