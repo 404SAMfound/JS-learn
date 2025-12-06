@@ -12,6 +12,6 @@ console.log(null==0)
 console.log(null>=0)
 
 console.log("2" ==2)  // double equality me wo true dikha dega kyuki conversions hone lgte but tripple equality me
-                      //  strictly checking hoti like isme datatype bhi check hoga nd false answer de dega
+                      // (===) strictly checking hoti like isme datatype bhi check hoga nd false answer de dega
 
 

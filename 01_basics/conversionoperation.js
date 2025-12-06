@@ -19,7 +19,7 @@ console.log(typeof valueinNumber);
 console.log(valueinNumber);
 
 // true => 1; false => 0, boolean me convert ho jayega, valueinnumber nikalenge uska toh
-// "" => false ; "anything" => true  (ye ho gya valueinboolean)
+// "(empty)" => false ; "anything" => true  (ye ho gya valueinboolean)
 
 
 /******************************OPERATION**********************************/
