@@ -4,7 +4,7 @@ console.log(todaysdate.toDateString());
 console.log(todaysdate.toLocaleString());
 console.log(typeof todaysdate);
 
-let createddate = new date(2025, 11, 12)
-let createddate = new date(2025, 11, 12, 20, 52)
-let createddate = new date("2025-12-12")
-console.log(createddate.toDateStrings());
+let createDate = new date(2025, 11, 12)
+let createDate = new date(2025, 11, 12, 20, 52)
+let createDate = new date("2025-12-12")
+console.log(createDate.toDateStrings());
